@@ -1,0 +1,3 @@
+/home/rkroshan/ur5_arm/src/Universal_Robots_ROS2_Description/urdf/ur.urdf.xacro
+
+name:=ur safety_limits:=true ur_type:=ur5e
