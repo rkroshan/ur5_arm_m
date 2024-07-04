@@ -1,0 +1,15 @@
+[submodule "IFRA_ConveyorBelt"]
+	path = IFRA_ConveyorBelt
+	url = https://github.com/rkroshan/IFRA_ConveyorBelt_m.git
+[submodule "gazebo_ros2_control"]
+	path = gazebo_ros2_control
+	url = https://github.com/rkroshan/gazebo_ros2_control.git
+[submodule "ros2_RobotiqGripper"]
+	path = ros2_RobotiqGripper
+	url = https://github.com/rkroshan/ros2_RobotiqGripper.git
+[submodule "Universal_Robots_ROS2_Description"]
+	path = Universal_Robots_ROS2_Description
+	url = https://github.com/rkroshan/Universal_Robots_ROS2_Description.git
+[submodule "Universal_Robots_ROS2_Gazebo_Simulation"]
+	path = Universal_Robots_ROS2_Gazebo_Simulation
+	url = https://github.com/rkroshan/Universal_Robots_ROS2_Gazebo_Simulation.git
